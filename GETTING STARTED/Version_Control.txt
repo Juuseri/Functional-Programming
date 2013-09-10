@@ -1,0 +1,3 @@
+Kaippa se t‰m‰ riitt‰‰? https://github.com/Juuseri/Functional-Programming.git
+
+-Juuso Tenhunen
